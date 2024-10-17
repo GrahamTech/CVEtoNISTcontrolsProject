@@ -23,6 +23,7 @@ Each vulnerability, based on its description, topic, and severity, is automatica
 Enhanced controls are applied for specific high-risk vulnerabilities to ensure better coverage and protection.
 
 Key Functions:
+
 Vulnerability Classification:
 
 The system processes vulnerability descriptions using NLP techniques to classify them into relevant security categories.
