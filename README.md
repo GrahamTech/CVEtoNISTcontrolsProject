@@ -1,4 +1,3 @@
-Project Title:
 Automated Vulnerability Mapping and Security Control Assignment
 
 Brief Description:
